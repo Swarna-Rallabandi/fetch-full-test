@@ -1,2 +1,6 @@
 fsdfsdfsdfdsfdsafsda
+<<<<<<< HEAD
 addede a live by swarna from windows laptopuuxdscx
+=======
+manager askeed
+>>>>>>> 258b37573cb137c1a684793ed1a255041187ab54
